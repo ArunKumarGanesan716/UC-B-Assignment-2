@@ -182,6 +182,7 @@ evaluate using gradiant boosting
 - 6 Cylinder and AWD seems to be preferred more 
 - Sedans are top sellers followed by SUV and Trucks
 - Automatic cars sells disproportionately high
+- Cars Priced under 20 K sells more
 
 
 But from all of the features The Car Age, Cylinder and Odometer plays a big factor -  Cars with Low Odometer, 6 cylinder and under 15 years will fetch higher price and will sell faster
