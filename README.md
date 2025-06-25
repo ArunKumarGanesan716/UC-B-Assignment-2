@@ -82,9 +82,9 @@ The following columns have a lot of missing data and may skew the results\
 
 ### Data Preparation
 Clean Data
-Price Between 100 to 300000
-Odometer between 0 to 1000000
-and Car year from 1980
+- Price Between 100 to 300000
+- Odometer between 0 to 1000000
+- and Car year from 1980
 
 Also calculate the Age of the car as new column
 
