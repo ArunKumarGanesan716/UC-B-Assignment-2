@@ -43,9 +43,6 @@ As a usercar dealersip I want to know
 - Does Odometer reading have more impact than year?
 - Does color, condition, title status impact pricing?
 
-
-
-
 ### Success Criteria
 - Clear identification of top price-driving factors.
 - Easy-to-interpret visualizations or models to support decisions.
@@ -53,7 +50,7 @@ As a usercar dealersip I want to know
 ### Data Evaluation
 Total rows: 426880, Total columns: 17
 
-Percentage of missing Value by feature
+# Percentage of missing Value by feature
     price           100.00
     year             99.72
     transmission     99.40
