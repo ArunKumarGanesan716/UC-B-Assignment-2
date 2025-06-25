@@ -50,7 +50,7 @@ As a usercar dealersip I want to know
 ### Data Evaluation
 Total rows: 426880, Total columns: 17
 
-# Percentage of missing Value by feature
+### Percentage of missing Value by feature
     price           100.00
     year             99.72
     transmission     99.40
@@ -67,8 +67,10 @@ Total rows: 426880, Total columns: 17
     size             28.23
     dtype: float64
 
-The following columns have a lot of missing data and may skew the results
--              % Missing
+The following columns have a lot of missing data and may skew the results\
+
+
+% Missing
 - size          71.767476
 - cylinders     41.622470
 - condition     40.785232
